@@ -23,7 +23,6 @@ body{
 }
 .gauche ul {
     list-style: none;
-    text-transform: lowercase;
 }
 .gauche span {
     margin-left: 20px;
@@ -67,4 +66,16 @@ img{
 }
 .img{
     text-align: center;
+}
+
+.btn {
+    background: #2003c4;
+    text-align: center;
+    padding: 10px auto;
+}
+
+.btn a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
 }
